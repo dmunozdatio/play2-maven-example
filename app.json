@@ -1,0 +1,6 @@
+{
+  "name": "Play2 Maven Plugin on Heroku",
+  "description": "A barebones Play2 Maven Plugin app, which can easily be deployed to Heroku.",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
