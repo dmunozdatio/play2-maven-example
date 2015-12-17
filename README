@@ -2,6 +2,8 @@
 
 This is an example of how to use the Play2 Maven Plugin with a Heorku app
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Usage
 
 The main modification was to and a binding of the `play2:dist-exploded` goal
