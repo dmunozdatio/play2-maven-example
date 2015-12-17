@@ -92,6 +92,14 @@ under the License.
                     <mainLang>java</mainLang>
                     <routesGenerator>injected</routesGenerator>
                 </configuration>
+                <executions>
+                  <execution>
+                    <phase>install</phase>
+                    <goals>
+                      <goal>dist-exploded</goal>
+                    </goals>
+                  </execution>
+                </executions>
             </plugin>
 
             <plugin>
